@@ -24,4 +24,4 @@ As the first image shows, I really enjoy a good storm. In fact, back in February
 Interestingly as well, electrochemistry is now being applied to the field of synthetic organic chemistry, producing the new and upcoming field of synthetic organic electrochemistry. With synthetic organic electrochemistry, useful molecules, like drug precursors and agrochemicals, can be produced more selectively, better, and without the need of redox reagents by using electricity. Oxidations and reductions are done using a range of anodes and cathodes to precisely create the exact redox potential needed for a reaction to occur. The electricity basically does the chemistry for you!
 
 ### Archive:
-[Previous Posts](./Archive.html)
+[Previous Posts](./Archive.md)
