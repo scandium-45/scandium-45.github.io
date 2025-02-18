@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Carbon and Friends: Chemistry and the Environment
 <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/5/0/520850_gettyimages1150911432_497643_crop.jpg" alt="Lightning, one of the ultimate spectacles of chemistry and physics in nature" width="750" height="400">
 
