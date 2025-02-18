@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Archive
+description: This contains previous podcast episodes and more
 ---
 
 ## Archive
