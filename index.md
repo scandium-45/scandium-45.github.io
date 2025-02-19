@@ -3,10 +3,19 @@ title: Carbon and Friends
 --- 
 
 # Chemistry and the Environment
-<img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/5/0/520850_gettyimages1150911432_497643_crop.jpg" alt="Lightning, one of the ultimate spectacles of chemistry and physics in nature" width="750" height="400">
+<img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/5/0/520850_gettyimages1150911432_497643_crop.jpg" alt="Lightning, one of the ultimate spectacles of chemistry and physics in nature" width="800" height="400">
 
 ###### Image Source: Crow, James Mitchell. “A Lightning Burst of Chemistry.” Chemistry World, Chemistry World, 10 June 2024, www<area>.chemistryworld.com/features/a-lightning-burst-of-chemistry/4015883.article
 <br>
+
+## Molecule of the Week:
+### Perfluorooctanoic Acid
+<img src= "https://github.com/user-attachments/assets/5029f033-12f2-4f58-8b33-d7c8461654b7" alt="Perfluorooctanoic acid (PFOA), a surfactant and a carcinogen" width="300" height="180">
+<img src= "https://github.com/user-attachments/assets/6f6ed435-a146-4787-9f7f-54cb989b213f" alt="Perfluorooctanoic acid (PFOA), a surfactant and a carcinogen" width="300" height="180">
+<br>
+Perfluorooctanoic acid, or PFOA, is a useful industrial surfactant, meaning that it is used to decrease surface tension of water. It is also used as a material feedstock. PFOA is used in a vast number of places and products including clothes, furniture, waxes, and more, and it does its intended job quite well. The small problem with PFOA is that, like other per and poly fluoroalkyl substances (PFAS), it is a forever chemical, meaning it almost never breaks down. This is largely due to the carbon-fluorine bond, one of the strongest single bonds known. PFOA is also a potential (and likely) carcinogen. Combined with the previously discussed bioaccumulation as a forever chemical, it is easy to see why this and similar compounds are being phased out. 
+
+
 
 ## Interesting Stories of Chemistry and the Environment This Week (coming soon)
 ## Podcast (Coming Soon)
