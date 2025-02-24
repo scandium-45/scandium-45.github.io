@@ -17,7 +17,7 @@ Perfluorooctanoic acid, or PFOA, is a useful industrial surfactant, meaning that
 
 
 
-## Interesting Recent Chemistry in Publications
+## Interesting Recent Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki
 Macromolecules Article ASAP
