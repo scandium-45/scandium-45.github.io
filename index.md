@@ -9,11 +9,12 @@ title: Carbon and Friends
 <br>
 
 ## Molecule of the Week:
-### Perfluorooctanoic Acid
-<img src= "https://github.com/user-attachments/assets/5029f033-12f2-4f58-8b33-d7c8461654b7" alt="Perfluorooctanoic acid (PFOA), a surfactant and a carcinogen" width="300" height="180">
-<img src= "https://github.com/user-attachments/assets/6f6ed435-a146-4787-9f7f-54cb989b213f" alt="Perfluorooctanoic acid (PFOA), a surfactant and a carcinogen" width="300" height="180">
+### EDTA (Ethylenediaminetetraacetic Acid)
+<img src= "https://github.com/user-attachments/assets/d3ec4a23-ca61-43f7-9224-5b6e7c3e5180" alt="Ethylenediaminetetraacetic Acid (EDTA), a useful hexadentate ligand" width="300" height="180">
+<img src= "https://github.com/user-attachments/assets/2e1fb147-673f-4b20-b483-a2ab0eb4ea33" alt="Ethylenediaminetetraacetic Acid (EDTA), a useful hexadentate ligand" width="300" height="180">
 <br>
-Perfluorooctanoic acid, or PFOA, is a useful industrial surfactant, meaning that it is used to decrease surface tension of water. It is also used as a material feedstock. PFOA is used in a vast number of places and products including clothes, furniture, waxes, and more, and it does its intended job quite well. The small problem with PFOA is that, like other per and poly fluoroalkyl substances (PFAS), it is a forever chemical, meaning it almost never breaks down. This is largely due to the carbon-fluorine bond, one of the strongest single bonds known. PFOA is also a potential (and likely) carcinogen. Combined with the previously discussed bioaccumulation as a forever chemical, it is easy to see why this and similar compounds are being phased out. 
+Ethylenediaminetetraacetic acid, or EDTA, is an incredibly useful ligand, meaning it binds to metal atoms to form a coordination complex. Due to the abundance of lone pairs on this molecule, once deprotonated, it is a hexadentate ligand, meaning it forms an incredible 6 bonds with a central metal atom/ion. Thus, EDTA can effectively sequester metal ions from solution and lock them away tightly in a coordination complex, preventing any reactions with the metal. Examples of this being useful are abundant. It is used in chelation therapy to treat lead poisoning, in the paper industry to prevent metal ions from helping hydrogen peroxide break down into water and oxygen, as a water softener in agriculture and laundry, and in many other applications and fields. Although not super harmful, its usage is being questioned because it breaks down very slowly in the environment. Mainly, it degrades under UV light, although bacteria that can break down specific EDTA-metal complexes have been discovered. <br>
+  
 
 
 
