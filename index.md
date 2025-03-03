@@ -19,21 +19,20 @@ Ethylenediaminetetraacetic acid, or EDTA, is an incredibly useful ligand, meanin
 
 
 ## Interesting Recent Chemistry Publications With Environmental Applications:
-### Harnessing Non-Thermal External Stimuli for Polymer Recycling
-Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki
-Macromolecules Article ASAP
-DOI: 10.1021/acs.macromol.4c02690 
-<br>
-### Iron-Catalyzed Hydrogenation of Alkyl Formates and Carbon Dioxide
-Israel T. Pulido-Díaz, Karla P. Salas-Martin, Juan C. Montaño-Pimentel, Hector García-Mayerstein, and Itzel Guerrero-Ríos
-Organometallics Article ASAP
-DOI: 10.1021/acs.organomet.5c00021 
-<br>
-### Solving the Conundrum of the Influence of Irradiation Power on Photothermal CO2 Hydrogenation
-Horatiu Szalad, Yong Peng, Jonas Werner Gosch, Andrea Baldi, Sven H. C. Askes, Josep Albero, and Hermenegildo García
-ACS Catalysis 0, 15
-DOI: 10.1021/acscatal.5c00247 
-<br>
+### Structural Stability and Photoluminescence Property of Cs2UCl6 Single Crystal Derived from Spent Nuclear Fuel
+Yibo Wang, Kun Yang, Feida Chen, Xianlin Qu, Yanmei He, Daniu Han, and Xiaobin Tang <br>
+Inorganic Chemistry 2025 64 (7), 3178-3187 <br>
+DOI: 10.1021/acs.inorgchem.4c04076 <br>
+
+### Room-Temperature Rh(I)-Catalyzed P(III)-Directed C–H Bond Alkylation: Enhanced Reactivity through Ligand Acceleration
+Jian Zhang and Jean-François Soulé <br>
+ACS Catalysis 2025 15 (4) <br>
+DOI: 10.1021/acscatal.4c05673  <br>
+
+### Ozone Reactions with Olefins and Alkynes: Kinetics, Activation Energies, and Mechanisms
+Yan Wang, Eva M. Rodríguez, Daniel Rentsch, Zhimin Qiang, and Urs von Gunten <br>
+Environmental Science & Technology Article ASAP <br>
+DOI: 10.1021/acs.est.4c07119 <br>
 ## Podcast (Coming Soon)
 
 
