@@ -14,20 +14,20 @@ Perfluorooctanoic acid, or PFOA, is a useful industrial surfactant, meaning that
 
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
-Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki
-Macromolecules Article ASAP
-DOI: 10.1021/acs.macromol.4c02690 
-<br>
+Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
+Macromolecules Article ASAP <br>
+DOI: 10.1021/acs.macromol.4c02690 <br>
+
 ### Iron-Catalyzed Hydrogenation of Alkyl Formates and Carbon Dioxide
-Israel T. Pulido-Díaz, Karla P. Salas-Martin, Juan C. Montaño-Pimentel, Hector García-Mayerstein, and Itzel Guerrero-Ríos
-Organometallics Article ASAP
-DOI: 10.1021/acs.organomet.5c00021 
-<br>
+Israel T. Pulido-Díaz, Karla P. Salas-Martin, Juan C. Montaño-Pimentel, Hector García-Mayerstein, and Itzel Guerrero-Ríos <br>
+Organometallics Article ASAP <br>
+DOI: 10.1021/acs.organomet.5c00021 <br>
+
 ### Solving the Conundrum of the Influence of Irradiation Power on Photothermal CO2 Hydrogenation
-Horatiu Szalad, Yong Peng, Jonas Werner Gosch, Andrea Baldi, Sven H. C. Askes, Josep Albero, and Hermenegildo García
-ACS Catalysis 0, 15
-DOI: 10.1021/acscatal.5c00247 
-<br> <br>
+Horatiu Szalad, Yong Peng, Jonas Werner Gosch, Andrea Baldi, Sven H. C. Askes, Josep Albero, and Hermenegildo García <br>
+ACS Catalysis 0, 15 <br>
+DOI: 10.1021/acscatal.5c00247 <br> 
+<br>
 
 [Back to main page](./)
 
