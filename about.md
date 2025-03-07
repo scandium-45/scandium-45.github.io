@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Me
+---
+
+# About Me:
 ## My Story
 I am currently a chemistry major at California Polytechnic State University, San Luis Obispo, and I am deeply passionate about organic chemistry and the environment, especically concerning climate change. Here's a few things I am interested in or have already done.
 
