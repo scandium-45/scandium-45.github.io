@@ -20,4 +20,3 @@ Interestingly as well, electrochemistry is now being applied to the field of syn
 
 <br>
 <br>
-[Back to main page](./)
