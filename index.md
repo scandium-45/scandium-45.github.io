@@ -38,7 +38,7 @@ DOI: 10.1021/acs.est.4c07119 <br>
 
 
 ## My Story
-I am currently a chemistry major at California Polytechnic State University, San Luis Obispo, and I am deeply passionate about organic chemistry and the environment, especically concerning climate change. Here's a few things I am interested in or have already done.
+I am currently a chemistry major at California Polytechnic State University, San Luis Obispo, and I am deeply passionate about organic chemistry and the environment, especically concerning climate change. My favorite element is sulfur and my favorite molecule is grapefruit mercaptan (yes, that is actually its name). Here's a few things I am interested in or have already done.
 
 ### Covalent Organic Frameworks
 <img src="https://pubs.rsc.org/image/article/2023/RA/d3ra02202a/d3ra02202a-s1_hi-res.gif" alt="COF-300, an imine-linked covalent organic framework" width="600" height="400">
