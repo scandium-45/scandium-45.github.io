@@ -50,6 +50,13 @@ Vasicine is an alkaloid and quinazoline derivative found mainly in <em>Justicia 
 For more information, read the study here: <a href="https://pubs.acs.org/doi/10.1021/jo5019415">https://pubs.acs.org/doi/10.1021/jo5019415</a>
 <br>
 
+### Allyl Isothiocyanate
+<img src= "https://github.com/user-attachments/assets/68e88f20-5419-4ea4-b979-ba78361cc6f6" alt="Allyl isothiocyanate, a flavorful natural product" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/8efb925e-d3a4-42db-ba2e-d4cd913ab97a" alt="Allyl isothiocyanate, a flavorful natural product" width="320" height="200">
+<br>
+Allyl isothiocyanate, a molecule you may not have heard of, but have certainly encountered. This natural product is present in and responsible for the flavor and pungency of horseradish, wasabi, mustard, and other cruciferous vegetables. As delicious as these foods are, allyl isothiocyanate is rarely found on its own. This is quite fortunate for humans because pure allyl isothiocyanate is actually relatively toxic with an LD50 is 151 mg/kg – slightly more toxic than MDMA and sodium nitrite. In addition, allyl isothiocyanate is a lachrymatory agent, like tear gas. In addition to being used in food, its toxicity in pure form is put to use in the form of insecticides and antibiotics. Additionally, there is some research currently ongoing into possible anti-cancer and anti-tumor effects of allyl isothiocyanate. Allyl isothiocyanate cements itself as one of the most important and most global of flavor molecules. In future weeks, I will discuss other flavor molecules responsible for the taste of foods like garlic, onions, shiitake mushrooms, and the subtle flavors of cheeses, wines, and more. Interestingly, all these molecules share something in common: they contain sulfur, my favorite element.
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
