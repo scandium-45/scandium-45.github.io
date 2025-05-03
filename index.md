@@ -37,7 +37,9 @@ DOI: 10.1021/acscatal.4c05673  <br>
 Yan Wang, Eva M. Rodríguez, Daniel Rentsch, Zhimin Qiang, and Urs von Gunten <br>
 Environmental Science & Technology Article ASAP <br>
 DOI: 10.1021/acs.est.4c07119 <br>
-## Podcast (Coming Soon)
+## Podcast
+<a href="https://youtu.be/siuCWGR9b6Y">First Episode with Dr. Zoerb, Cal Poly</a>
+
 
 
 
