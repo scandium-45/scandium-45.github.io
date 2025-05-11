@@ -9,19 +9,10 @@ title: Carbon and Friends
 <br>
 
 ## Molecule of the Week:
-### Carvone
-<img src= "https://github.com/user-attachments/assets/e45b4a8a-0df7-422a-b8cf-eb7edc21aa11" alt="R-carvone, the minty enantiomer of carvone" width="300" height="300">
-<img src= "https://github.com/user-attachments/assets/69216c2f-a954-4178-8e97-2c0008e62c2b" alt="R-carvone, the minty enantiomer of carvone" width="420" height="300">
+### Osmium Tetroxide
+<img src= "https://github.com/user-attachments/assets/d18cb51e-943f-4cf2-a1db-a0ab40a60c3d" alt="Osmium tetroxide, an interesting oxidizer" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/63a6f3be-da31-415f-9d19-044f079e155c" alt="Osmium tetroxide, an interesting oxidizer" width="320" height="200">
 <br>
-<img src= "https://github.com/user-attachments/assets/e777152e-a9e7-45e5-bf8b-746cf168170e" alt="S-carvone, the spicy, caraway-like enantiomer of carvone" width="300" height="300">
-<img src= "https://github.com/user-attachments/assets/e5a12c35-b3ff-4ad6-973a-5b78549a5445" alt="S-carvone, the spicy, caraway-like enantiomer of carvone" width="420" height="300">
-<br>
-This week is unique in that there are 2 molecules, yet both are carvone. How can this be? These 2 molecules are enantiomers of each other, meaning that they are non-superimposable mirror images of each other (it is possible to see this if you rotate each molecule in opposite directions facing each other). The bottom carbon of the cyclohexene ring (the hexagon) is an asymmetric, or chiral, carbon, meaning that it is connected to four different atoms or groups of atoms. I have tried to showcase this chirality (and not the mirror-image) by just focusing on the chiral carbon. On R-carvone, the hydrogen goes back (represented in 2-D with the dashed bond) while the other carbon group comes forward (represented in 2-D with the solid, wedge bond); the inverse is true for S-carvone. These two enantiomers cannot be switched or rotated to get the other without breaking bonds. This chiral carbon is the reason they are enantiomers and is why I have chosen to focus on it. This can be easily seen below in the hypothetical compound, bromochlorofluoromethane, a molecule with just one carbon that is chiral. <br>
-<img src= "https://github.com/user-attachments/assets/3d123676-de9c-4b82-ac22-e2870725f23b" alt="the 2 enantiomers of bromochlorofluoromethane" width="680" height="300">
-
-I will quickly elaborate on the naming of the 2 carvones. R and S (right and left from the Latin <i>rectus</i> and <i>sinister</i>) refer to the absolute configuration, or 3-D orientation of the enantiomers. The plus and minus refer to the direction at which polarized light is rotated by each enantiomer; this is sometimes written instead with D and L (right and left from the Latin <i>dextro</i> and <i>levo</i>). This seems strange to use, but historically, it was the only way to separate/identify enantiomers. Biologists love naming amino acids and drugs with levo and dextro for some reason but we chemists dislike this for a simple reason: I can look at a molecule and tell you immediately it is R or S, but currently, we cannot look at a molecule and predict which way it will rotate light. In short, if you tell a chemist to draw (<i>R</i>)-carvone, they can, but they wouldn’t know if it was dextro (+) or levo (-) carvone without testing.
-<br>
-Despite the 3-D configuration differences, both molecules have the same physical properties, like boiling/melting points, density, solubility in water, etc. How they smell paints a different picture: both carvones are found in nature in essential oils but (<i>S</i>)-carvone is present in and smells like caraway, and (<i>R</i>)-carvone is present in and smells like spearmint. The reason for this smell difference is quite simple: humans, like all of life, are full of enantiomers, which extends to our smell receptors. Only one of these carvone enantiomers ‘fits’ in one receptor, and the other enantiomer ‘fits’ in another receptor. These 2 receptors send different signals to the brain and the brain interprets them as 2 very different smells (it’s easy to forget that senses, like smell, aren’t inherent physical properties). This chirality of the body is why the configuration, or what we call stereochemistry, is so important for molecules that go in the body, like drugs. For example methamphetamine is chiral and only one of the enantiomers is what we know as ‘meth’; the other, levomethamphetamine, is an over-the-counter nasal decongestant. 
 
    
 
