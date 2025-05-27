@@ -91,6 +91,14 @@ This reaction is quite important because of the syn addition, but it doesn’t e
 
 <br>
 
+### <i> N</i>-Methylmorpholine <i> N</i>-oxide
+<img src= "https://github.com/user-attachments/assets/c99f9da4-94b7-4464-bc6b-58e1ea15a7d3" alt="Osmium tetroxide, an interesting oxidizer" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/f5f33b90-4866-4102-ab24-1a49984d96e1" alt="Osmium tetroxide, an interesting oxidizer" width="320" height="200">
+<br>
+<i>N</i>-methylmorpholine <i>N</i>-oxide, commonly known as NMO, is one example of a molecule hinted at last week. NMO is a sacrificial catalyst and reoxidant, meaning that it is responsible for catalyzing a reaction by oxidizing the actual catalyst in a reaction. Technically, because it is not regenerated in a reaction like a catalyst, sacrificial catalysts are actually just reagents, despite the name. NMO is often used (other reoxidants like potassium ferricyanide also can work) as a method of regenerating osmium tetroxide, which itself is used in special oxidation reactions as discussed last week. For example, in Upjohn dihydroxylation (named after the former Upjohn Company), NMO is used in reagent/stoichiometric quantities to help regenerate osmium tetroxide, which is used very sparingly. Through this reaction, you can get all the benefits of osmium tetroxide while only using a tiny amount of it (which is both safer and cheaper) due to NMO regenerating osmium tetroxide after it has already reacted. This reaction, just like the normal osmium tetroxide oxidation reaction, is not stereospecific, meaning that the osmium tetroxide can attack from either face of the alkene, often resulting in a mixture of enantiomers. This mixture is known as a racemic mixture. Surprisingly, forcing this reaction to be stereospecific and produce just one enantiomer – as we will see next week – makes this reaction work faster and give higher yields, which is somewhat counterintuitive. Overall, so-called sacrificial catalysts and reoxidants represent a great way of regenerating catalysts, allowing reactions to proceed smoothly with only a very tiny amount of what may be a dangerous and/or expensive catalyst.
+
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
