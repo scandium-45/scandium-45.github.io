@@ -99,6 +99,14 @@ This reaction is quite important because of the syn addition, but it doesn’t e
 
 <br>
 
+### Dihydroquinine 
+<img src= "https://github.com/user-attachments/assets/d3c4053c-28f4-4419-8c5c-50dbd98246b4" alt="Dihydroquinine, a quinine derivative with usage in assymetric synthesis" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/d4a159d7-fbc6-4451-b7d0-74d8ef4cf780" alt="Dihydroquinine, a quinine derivative with usage in assymetric synthesis" width="320" height="200">
+<br>
+Dihydroquinine (DHQ), also known as hydroquinine, is a derivative of quinine with usage in asymmetric synthesis. In 2001, K. Barry Sharpless won his first of 2 Nobel Prizes in Chemistry partially for the discovery of what is now known as Sharpless asymmetric dihydroxylation. This reaction uses osmium tetroxide as an oxidizer and uses a reoxidant, commonly potassium ferricyanide or NMO (sound familiar?). However, what makes this reaction special is the usage of an asymmetric catalyst which makes the dihydroxylation enantioselective. Both of the catalysts use phthalazine as an adduct (not actually important), but use different chiral ligands to make the reaction enantioselective. One of these ligands is the molecule of the week, DHQ, while the other ligand you use for the opposite stereochemistry is the closely related dihydroquinidine, which is the enantiomer of DHQ (just change the wedge bonds to dashed bonds). With Sharpless asymmetric dihydroxylation, alkenes can be dihydroxylated selectively such that only 1 enantiomer is made. This has huge implications in cases where a molecule has to have a certain stereochemistry, like drugs. Although this reaction isn’t perfect (depending on the steric environment of the alkene and whether it is cis or trans, selectivity varies somewhat), it is a great and relatively easy way of synthesizing 1 enantiomer. In fact, Sharpless asymmetric dihydroxylation is actually faster than Upjohn dihydroxylation (non-asymmetric) as a result of what Sharpless called ligand accelerated catalysis. Additionally, the various reagents or compounds used to generate them <i>in situ</i> are commercially available in what is called AD-mix. For just the low, low price of $59.28, you too (provided you can actually order it) can buy 10 grams of AD-mix-alpha from Sigma-Aldrich and perform a Nobel Prize winning reaction.
+
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
