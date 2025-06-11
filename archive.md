@@ -107,6 +107,14 @@ Dihydroquinine (DHQ), also known as hydroquinine, is a derivative of quinine wit
 
 <br>
 
+### Ascorbic Acid  
+<img src= "https://github.com/user-attachments/assets/a112edbd-a5ca-4543-b17f-750941e431cf" alt="Ascorbic acid, a sour vitamin with use in green organic synthesis" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/f34063d5-3f81-4f4a-bf9c-76ade9b21081" alt="Ascorbic acid, a sour vitamin with use in green organic synthesis" width="320" height="200">
+<br>
+Ascorbic acid, aka Vitamin C, aka L-ascorbic acid (unnecessary because D-ascorbic acid is actually called erythorbic acid) is an incredibly useful molecule, perhaps more so than anything seen so far. In addition to being a vitamin found in countless fruits and vegetables, an antioxidant added to foods, and a dietary supplement used to treat or prevent scurvy, ascorbic acid finds countless uses in organic chemistry, specifically pertaining to green chemistry. Vitamin C is often first encountered in the beloved iodine clock reaction, a classic science fair or chemistry magic show demonstration that first captured my heart many years ago (watch a video of this reaction if you haven’t seen it; it’s more magical than I can describe with words). This reaction showcases the redox capabilities of ascorbic acid: the iodine is reduced (gains electrons) by ascorbic acid to form colorless iodide ions. Once the ascorbic acid has become fully oxidized (loses electrons) with the help of hydrogen peroxide, the iodine will be able to freely complex with starch, leading to a very sudden color change. Ascorbic acid finds use as a reducing agent outside of science fairs though. Ascorbic acid has historically been used as a reducing agent in green chemistry (see vasicine from 7 weeks ago) with roles like reducing graphene oxide and reducing many functional groups. Ascorbic acid has also been used as a reducing agent in atom transfer radical polymerization. Furthermore, recent research has highlighted the usage of ascorbic acid as a catalyst in organic synthesis, both due to its redox capabilities as well as its stereochemistry which can help with asymmetric synthesis. It’s rare to find a molecule that is either a good agent in synthesis or useful biologically, but ascorbic acid manages to do both. 
+
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
