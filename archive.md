@@ -115,6 +115,16 @@ Ascorbic acid, aka Vitamin C, aka L-ascorbic acid (unnecessary because D-ascorbi
 
 <br>
 
+### Ferrocene  
+<img src= "https://github.com/user-attachments/assets/73552257-3f95-4df8-a64b-0479e826486a" alt="Ferrocene, the quintessential metallocene" width="320" height="400">
+
+<br>
+Ferrocene: the first of many molecules I have been interested in writing about for a while, but have been scared away by the task of trying to represent their structures. You may have noticed that I have not posted a 3-D structure due to this compound’s unique geometry; this may happen again with other similar compounds or ionic salts, which cannot be represented as just a 3-D molecule. With these logistics out of the way, I proudly present ferrocene. 
+<br>
+Ferrocene is the prototypical metallocene, an interesting group of molecules which are the most common of the sandwich compounds – a name which is rather appropriate. First synthesized in 1951, ferrocene led to a Nobel Prize in Chemistry in 1973 for two of the chemists involved: Ernst Otto Fischer and Geoffrey Wilkinson. What is interesting about ferrocene and led to the Nobel Prize was not any reactions or applications of ferrocene, but the unique sandwich structure. The iron(II) in the middle of the sandwich isn’t really connected to any 1 carbon atom, as evidenced by the bonds which pass directly into the center of the cyclopentadienyl rings. Although this appears, and is complicated, these compounds have the same electron configuration of the noble gas in the period (6 pi electrons per cyclopentadienyl and 6 from iron(II)), somewhat explaining the stability of ferrocene and similar metallocenes. Even more complicated is the orientation of the cyclopentadienyl rings: depending on the temperature and phase, the rings may obtain various staggered or eclipsed conformations. For more information, I recommend checking out the Dewar-Chatt-Duncanson model, but this is far outside the scope of this blog and my understanding of organometallic chemistry. To be honest, I just picked ferrocene as a molecule because it is a relatively silly molecule: the electrons seemingly disobey rules, the molecule is relatively useless besides a few niche applications, and sandwich compound is a funny name. Chemistry is full of these rather unusual, if not silly, molecules that upon inspection, push the limits of our understanding of electrons and bonding. I hope to show a few more of these molecules eventually. 
+
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
