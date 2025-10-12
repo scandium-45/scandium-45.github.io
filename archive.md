@@ -140,7 +140,21 @@ DOI: 10.1021/acs.organomet.5c00021 <br>
 Horatiu Szalad, Yong Peng, Jonas Werner Gosch, Andrea Baldi, Sven H. C. Askes, Josep Albero, and Hermenegildo García <br>
 ACS Catalysis 0, 15 <br>
 DOI: 10.1021/acscatal.5c00247 <br> 
-<br>
+
+### Structural Stability and Photoluminescence Property of Cs2UCl6 Single Crystal Derived from Spent Nuclear Fuel
+Yibo Wang, Kun Yang, Feida Chen, Xianlin Qu, Yanmei He, Daniu Han, and Xiaobin Tang <br>
+Inorganic Chemistry 2025 64 (7), 3178-3187 <br>
+DOI: 10.1021/acs.inorgchem.4c04076 <br>
+
+### Room-Temperature Rh(I)-Catalyzed P(III)-Directed C–H Bond Alkylation: Enhanced Reactivity through Ligand Acceleration
+Jian Zhang and Jean-François Soulé <br>
+ACS Catalysis 2025 15 (4) <br>
+DOI: 10.1021/acscatal.4c05673  <br>
+
+### Ozone Reactions with Olefins and Alkynes: Kinetics, Activation Energies, and Mechanisms
+Yan Wang, Eva M. Rodríguez, Daniel Rentsch, Zhimin Qiang, and Urs von Gunten <br>
+Environmental Science & Technology Article ASAP <br>
+DOI: 10.1021/acs.est.4c07119 <br>
 
 [Back to main page](./)
 
