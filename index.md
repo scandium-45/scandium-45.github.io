@@ -26,25 +26,27 @@ Ascaridole is an interesting, naturally-occurring monoterpenoid that happens to 
 
 
 ## Interesting Recent Chemistry Publications With Environmental Applications:
-### Structural Stability and Photoluminescence Property of Cs2UCl6 Single Crystal Derived from Spent Nuclear Fuel
-Yibo Wang, Kun Yang, Feida Chen, Xianlin Qu, Yanmei He, Daniu Han, and Xiaobin Tang <br>
-Inorganic Chemistry 2025 64 (7), 3178-3187 <br>
-DOI: 10.1021/acs.inorgchem.4c04076 <br>
+### Diffusion-Induced Redox Gradients for the Concurrent Synthesis of MoS2 and MoO3 in a Single Reactor: A Green Pathway for Hydrogen Evolution
+Prasad C. Walimbe, Preeti S. Kulkarni, and Sunil D. Kulkarni <br>
+Inorganic Chemistry 2025 64 (39), 19582-19597  <br>
+DOI: 10.1021/acs.inorgchem.5c02517 <br>
 
-### Room-Temperature Rh(I)-Catalyzed P(III)-Directed C–H Bond Alkylation: Enhanced Reactivity through Ligand Acceleration
-Jian Zhang and Jean-François Soulé <br>
-ACS Catalysis 2025 15 (4) <br>
-DOI: 10.1021/acscatal.4c05673  <br>
+### Photo-Catalyzed Synthesis of Indanones from Aromatic Aldehydes and Terminal Alkynes
+Florence Babawale, Indrajit Ghosh, and Burkhard König <br>
+The Journal of Organic Chemistry 2025 90 (39), 13885-13890 <br>
+DOI: 10.1021/acs.joc.5c01749   <br>
 
-### Ozone Reactions with Olefins and Alkynes: Kinetics, Activation Energies, and Mechanisms
-Yan Wang, Eva M. Rodríguez, Daniel Rentsch, Zhimin Qiang, and Urs von Gunten <br>
-Environmental Science & Technology Article ASAP <br>
-DOI: 10.1021/acs.est.4c07119 <br>
+### Rapid Electrochemical Assessment of Excited-State Quenching Dynamics
+Tobia Casadei, Alberto Piccoli, Davide Zeppilli, Laura Orian, Abdirisak A. Isse, and Marco Fantin <br>
+ACS Catalysis 2025 15 (19), 16938-16952 <br>
+DOI: 10.1021/acscatal.5c02778 <br>
+
+<br>
+
 ## Podcast
 <a href="https://youtu.be/siuCWGR9b6Y">First Episode with Dr. Zoerb, Cal Poly</a>
 
-
-
+<br> 
 
 ## My Story
 I am currently a chemistry major at Rice University, and I am deeply passionate about organic chemistry and the environment, especically concerning climate change. My favorite element is sulfur and my favorite molecule is grapefruit mercaptan (yes, that is actually its name). Here's a few things I am interested in or have already done.
