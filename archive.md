@@ -125,6 +125,15 @@ Ferrocene is the prototypical metallocene, an interesting group of molecules whi
 
 <br>
 
+### Ascaridole  
+<img src= "https://github.com/user-attachments/assets/0ca32d4c-fb35-4160-a3bf-107cc3ee0fad" alt="Ascaridole, an interesting bicyclic terpenoid" width="320" height="200">
+<img src= "https://github.com/user-attachments/assets/9a2bd925-3c66-44e9-9ac3-c52411da4209" alt="Ascaridole, an interesting bicyclic terpenoid" width="320" height="200">
+
+<br>
+Ascaridole is an interesting, naturally-occurring monoterpenoid that happens to look like a face in 2-D. Ascaridole occurs in the boldo tree of Chile and epazote, an herb which grows across Latin America. Bicyclic compounds are quite common in nature (camphor, eucalyptol, pinene, etc.) but I can’t say that I have ever seen a natural bicyclic bridging peroxide. It isn’t surprising as a result of this peroxide bridge to reveal that this molecule is relatively flammable, and some sources online regard ascaridole as being quite explosive. However, this is wrong: the peroxide bond of ascaridole does violently break with heat, but the main cycloalkene structure remains intact (unlike with other organic peroxide explosives where the entire molecule breaks apart). Hence, ascaridole is not very explosive. Besides this unusual property, ascaridole has an interesting use as an anthelmintic drug, meaning that it expels parasitic worms. However, ascaridole has mainly been used historically because it is a strong irritant and a potential carcinogen. As far as pre-1970s anti-parasitic drugs go in terms of danger (I’m looking at you, melarsoprol), this isn’t actually too bad if it means treating a parasitic infestation. There are certainly better options now, but they probably won’t be as interesting-looking of a molecule.
+
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
