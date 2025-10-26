@@ -134,6 +134,18 @@ Ascaridole is an interesting, naturally-occurring monoterpenoid that happens to 
 
 <br>
 
+### Coronene  
+<img src= "https://github.com/user-attachments/assets/f7ef1be5-e987-485e-9661-40bc168332be" alt="Coronene, an interesting polycyclic aromatic hydrocarbon" width="560" height="200">
+<img src= "https://github.com/user-attachments/assets/d252fc12-e822-4b5e-941f-a606da174ee4" alt="Coronene, an interesting polycyclic aromatic hydrocarbon" width="320" height="200">
+
+<br>
+Coronene perhaps has the least-needed 3-D structure of all the molecules I have covered. Coronene is entirely planar and is a quintessential polyaromatic cyclic hydrocarbon (PAH). Coronene fluoresces under UV light which should come as no surprise due to its delocalized electrons; anthracene with only three fused aromatic rings fluoresces under UV. Coronene is surprisingly interesting beyond this, however. Coronene occurs naturally as an organic mineral (quite rare) called carpathite. When I say mineral, I don’t just mean coronene is some impurity; carpathite consists of tiny crystals of almost entirely pure coronene. In the field of organic synthesis, coronene also is useful as a nucleation seed for graphene, an interesting and useful material consisting of a one-layer sheet of carbon, much like an infinite sheet of coronene (graphite is actually stacks of graphene sheets, interestingly). Finally, coronene is interesting theoretically in terms of aromaticity. The two 2-D Chemdraw structures represent different visualizations of this. The first is the more classical method of drawing an aromatic compound as a series of alternating double and single bonds. Although these structures are accurate for benzene and other small aromatic molecules, larger and polycyclic aromatic hydrocarbons present a challenge: in terms of reactivity and other chemical properties, not all these double bonds are equal. Hence, Clar’s rule. 
+
+<br> 
+
+Clar’s rule states that the resonance structure that is the largest contributor to the actual structure (the drawn structure that most accurately predicts the real physical and chemical properties) is the one with the most pi sextets (Clar sextets), which are depicted instead as circles. In less complicated language, more non-adjacent hexagons with circles inside = better depiction of actual molecule and its properties, including, but not limited to, reactivity. You can (correctly) imagine that if more circles = good, then these electrons are less likely to react in comparison with the electrons depicted as double bonds. Clar’s rule is actually one of the greatest chemistry rules because it is almost entirely perfect, as supported by experimental evidence regarding polycyclic aromatic hydrocarbons. The only limitations are that Clar’s rule only really works for hexagons and there may be multiple nontrivial resonance structures with the same number of sextets. In fact, coronene has two resonance structures such that there are three Clar sextets, but the other one is equivalent (imagine shifting the circles and double bonds clockwise by 1 ring and notice how it is the same structure, just rotated by a hexagon). Overall, coronene is theoretically, geologically, and chemically intriguing in a multitude of ways. Who could have guessed that from a compound only made of carbon and hydrogen? 
+<br>
+
 ## Previous Interesting Chemistry Publications With Environmental Applications:
 ### Harnessing Non-Thermal External Stimuli for Polymer Recycling
 Glen R. Jones, Richard Whitfield, Hyun Suk Wang, Nethmi De Alwis Watuthanthrige, Maria-Nefeli Antonopoulou, Victoria Lohmann, and Athina Anastasaki <br>
